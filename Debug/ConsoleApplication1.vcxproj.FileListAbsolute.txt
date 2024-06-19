@@ -1,0 +1,2 @@
+D:\project\program\vscode\homework\opengl_test\ConsoleApplication1\Debug\ConsoleApplication1.exe
+D:\project\program\vs2017project\ConsoleApplication1\Debug\ConsoleApplication1.exe
